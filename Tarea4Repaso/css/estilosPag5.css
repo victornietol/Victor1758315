@@ -1,0 +1,35 @@
+h1{
+    background: chocolate;
+    color: white;
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p{
+    background: darkmagenta;
+    color: blanchedalmond;
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+}
+
+img{
+    width: 1600px;
+    margin-bottom: 30px;
+}
+
+.fondo{
+    background: midnightblue;
+}

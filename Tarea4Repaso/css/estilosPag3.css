@@ -1,0 +1,35 @@
+h1{
+    background: red;
+    color: yellow;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid yellow;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p{
+    background: bisque;
+    color: chocolate;
+    font-family: cursive;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-bottom: 50px;
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+img{
+    width: 1600px;
+    margin-bottom: 30px;
+}
+
+.fondo{
+    background: darksalmon ;
+}
